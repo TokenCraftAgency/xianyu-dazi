@@ -150,17 +150,6 @@
 
 ---
 
-<div align="center">
-
-## 让搭子替你盯着闲鱼
-
-免费版即刻体验，会员解锁全部数据能力。
-
-[⬇️ 免费版下载](https://github.com/larbing/fish-data/releases/tag/20260809) · [联系我们](https://9ld9vae3rv.flaspage.top)
-
-</div>
-
----
 
 ## 声明
 
